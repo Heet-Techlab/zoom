@@ -16,13 +16,6 @@ flutter pub run zoom:unzip_zoom_sdk
 ```
 ## Installation from github
 
-```yaml
-  zoom:
-    git:
-      url: git@github.com:driftboat/flutter_zoom.git
-      ref: main
-      path: zoom
-```
 After install the library, must run the follow script to get some sdk stuff for the first time:
 ```shell script
 flutter pub run zoom:unzip_zoom_sdk
